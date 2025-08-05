@@ -1,0 +1,5 @@
+[
+    {"item": "Company Name Mentioned", "rule": "company name"},
+    {"item": "Privacy Policy Included", "rule": "privacy policy"},
+    {"item": "Contact Information Provided", "rule": "contact (email|number|address)"}
+]
